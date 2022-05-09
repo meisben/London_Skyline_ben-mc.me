@@ -204,7 +204,7 @@ function linkGithub() { var win = window.open("https://codepen.io/benisme/", '_b
 
 function linkLinkedIn() { var win = window.open("https://www.linkedin.com/in/ben-money-coomes/", '_blank'); win.focus(); console.log("https://www.linkedin.com/in/ben-money-coomes/"); }
 
-function linkInstagram() { var win = window.open("https://www.instagram.com/benismememe/", '_blank'); win.focus(); console.log("https://www.instagram.com/benismememe/"); }
+function linkInstagram() { var win = window.open("https://www.instagram.com/green_green_tech/", '_blank'); win.focus(); console.log("https://www.instagram.com/benismememe/"); }
 
 function linkPlotly() { var win = window.open("https://github.com/meisben", '_blank'); win.focus(); console.log("https://github.com/meisben"); }
 
